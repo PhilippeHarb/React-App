@@ -2,8 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
+.Coffee-Logo {
   height: 40vmin;
+  width: 40vmin;
 }
 
 .App-header {
@@ -19,4 +20,16 @@
 
 .App-link {
   color: #09d3ac;
+}
+button 
+{
+  margin : 10px;
+  background-color : green;
+  border : none;
+  border-radius : 20px;
+  
+  
+  
+  
+
 }
